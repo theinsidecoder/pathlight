@@ -1,0 +1,12 @@
+{
+  "name": "pathlight",
+  "version": "0.1.0",
+  "description": "Watch BFS, DFS, Dijkstra, A* and Greedy search think. Zero-dependency pathfinding visualizer.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": ["pathfinding", "visualizer", "astar", "dijkstra", "bfs", "dfs", "algorithms", "data-structures"],
+  "license": "MIT"
+}
